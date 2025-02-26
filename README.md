@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hel1oz
 - 👀 I’m interested in ... life
-- 🌱 I’m currently learning ... software development as a whole
+- 🌱 I’m currently learning ... Dart and Flutter
 - 💞️ I’m looking to collaborate on ... any project that will come my way since I'm a beginner
 - 📫 How to reach me ... email: zmarttrc@gmail.com
 - 😄 Pronouns: ... He/Him
